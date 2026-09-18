@@ -1,29 +1,46 @@
 # Hi, I'm Roman 👋
 
+I'm a Mathematics and Computer Science student who likes understanding how things work, solving difficult problems, and turning ideas into projects.
+
 ## A little about me
 
-I like problems that make me think, whether it's a mathematical puzzle, a chess position, or a question at a quiz night. Outside studying and coding, I follow football (CSKA is my team), listen to music, and enjoy a good film.
+Football has been part of my life since I was six. I enjoy playing, follow the sport closely, and support **CSKA Moscow**.
 
-I grew up studying mathematics in School No. 57's math class and now study in France. I speak Russian, English, and Italian.
+I also love chess and other games that make me think. I often go to quizzes: I like the mix of logic, unexpected facts, and working through a question with other people.
 
-## What I work on
+Geography is another long-standing interest. At one point I knew the countries of the world, their capitals, and their flags by heart. I speak **Russian, English, and Italian**.
 
-I'm studying **Computing and Data Science at HSE University** and **Mathematics and Computer Science at École Polytechnique**. I've also worked as a teaching assistant in mathematical analysis and discrete mathematics.
+## Studies, skills & projects
 
-I'm especially interested in **algorithms, modern C++, backend and systems development, data storage, and machine learning**. I like understanding how things work under the hood and building projects that let me test an idea in practice. Currently, I'm learning more about Go, Qt, HTTP, Docker, and concurrency in C++.
+### My path so far
 
-### Selected projects
+- **School No. 57** — specialized mathematics class. This is where I built a strong foundation in mathematical problem solving.
+- **Heriot-Watt University Dubai** — previously studied Computer Science / Software Engineering.
+- **HSE University** — studying Computing and Data Science.
+- **École Polytechnique** — studying Mathematics and Computer Science.
 
-**[2048 AI with Expectimax and Machine Learning](https://github.com/Superromaxa/2048-cpp-ai)**  
-I built the game in C++ with Random, Heuristic, and Expectimax agents, collected gameplay data, and experimented with learned board evaluation in Python.
+I've also worked as a teaching assistant in **mathematical analysis and discrete mathematics**. Explaining a concept clearly is a useful test of whether I really understand it myself.
 
-**[3D Pallet Packing Algorithm Development](https://github.com/Superromaxa/3D-Pallet-Packing-Algorithm-Development)**  
-An exploration of efficient and stable box placement using packing heuristics and genetic algorithms, with tools for analyzing the resulting layouts.
+### What I work with
 
-**[Task Manager API](https://github.com/Superromaxa/task-manager)**  
-A FastAPI backend for managing tasks, with search, sorting, priorities, and persistent storage.
+My main programming interests are **C++ and Go**. In C++, I'm particularly interested in algorithms, performance, and systems programming; in Go, I'm exploring backend development and how networked services are built.
 
-I'd also like to build a chess engine and explore applications that combine C++, Python, and machine learning.
+I also use **Python** for data analysis and machine learning experiments, and **SQL** when working with databases. My mathematics background shapes the way I approach algorithms and optimization. I'm still developing my ML skills and prefer to learn by building and measuring things.
+
+Some topics I'm currently exploring:
+
+- Backend services, HTTP, databases, and data storage
+- Modern C++, concurrency, and performance
+- Go, Qt, and Docker
+- Mathematical optimization and machine learning
+
+### Projects
+
+- **[2048 AI with Expectimax and Machine Learning](https://github.com/Superromaxa/2048-cpp-ai)** — I implemented 2048 in C++ with Random, Heuristic, and Expectimax agents. I then collected gameplay data and used Python to experiment with learned board evaluation.
+- **[3D Pallet Packing Algorithm Development](https://github.com/Superromaxa/3D-Pallet-Packing-Algorithm-Development)** — I explored how to place boxes efficiently while keeping a stack stable, comparing packing heuristics and genetic algorithms and building tools to analyze their results.
+- **[Task Manager API](https://github.com/Superromaxa/task-manager)** — a FastAPI backend with task search, sorting, priorities, and persistent storage.
+
+I'm interested in building a chess engine in the future, alongside more projects that combine algorithms, backend development, and machine learning.
 
 ### Get in touch
 
