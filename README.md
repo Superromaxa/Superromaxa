@@ -4,7 +4,7 @@
 
 I like problems that make me think, whether it's a mathematical puzzle, a chess position, or a question at a quiz night. Outside studying and coding, I follow football (CSKA is my team), listen to music, and enjoy a good film.
 
-I grew up studying mathematics in School No. 57's math class and now study in France. I speak Russian, English, and Italian. I enjoy meeting people with different backgrounds and learning how they see the world.
+I grew up studying mathematics in School No. 57's math class and now study in France. I speak Russian, English, and Italian.
 
 ## What I work on
 
