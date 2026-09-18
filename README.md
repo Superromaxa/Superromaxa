@@ -1,39 +1,28 @@
 # Hi, I'm Roman 👋
 
-I am a Computer Science and Mathematics student interested in **backend development, data analytics, algorithms, and machine learning**.
+## A little about me
 
-## 🎓 Education
+I'm a Mathematics and Computer Science student who enjoys the process of figuring things out — whether that means working through a difficult problem, playing a game of chess, or learning something new.
 
-* **École Polytechnique** — BSc in Mathematics and Computer Science
-* **HSE University** — BSc in Computer Science and Data Analysis
-* Previously studied **Computer Science (Software Engineering)** at Heriot-Watt University Dubai
+Away from my laptop, I enjoy football and chess. I speak Russian, English, and Italian, and I like being able to connect with people across different places and perspectives.
 
-## 💻 Areas of Interest
+## What I work on
 
-* Backend development and API design
-* Databases, data storage, and query optimization
-* Data analytics and machine learning
-* Algorithms, data structures, and performance optimization
+I'm studying Mathematics and Computer Science at **École Polytechnique** and Computer Science and Data Analysis at **HSE University**. I previously studied Software Engineering at **Heriot-Watt University Dubai**.
 
-## 🚀 Projects
+My main interests are backend development, algorithms, data analysis, and machine learning. I work with **Python and C++**, and have built APIs with **FastAPI, SQLAlchemy, and SQLite**.
 
-* **Pallet Packing Optimization** — algorithms for efficient box placement on pallets using C++ and Python
-* **2048 AI Agent** — implementation of game logic and experiments with automated gameplay strategies
-* **Task Management Backend** — a REST API built with FastAPI, SQLAlchemy, and a relational database
+### Selected projects
 
-## ♟️ Beyond Coding
+**[3D Pallet Packing Algorithm Development](https://github.com/Superromaxa/3D-Pallet-Packing-Algorithm-Development)**  
+Exploring how to place boxes efficiently on pallets while keeping the stack stable. The project compares packing heuristics and genetic algorithms and includes tools to analyze the resulting layouts.
 
-* Mathematics and problem solving
-* Football
-* Chess and other intellectual games
+**[2048 AI with Expectimax and Machine Learning](https://github.com/Superromaxa/2048-cpp-ai)**  
+A C++ implementation of 2048 with search-based agents and a Python training pipeline. I compared a learned board evaluation function with handcrafted heuristics.
 
-## 📖 I speak
+**[Task Manager API](https://github.com/Superromaxa/task-manager)**  
+A FastAPI backend for managing tasks, with search, sorting, priorities, and persistent storage.
 
-* Russian
-* English
-* Italian
+### Get in touch
 
-## 📫 Contact Me
-
-* **Email:** [romaxasvetlov@gmail.com](mailto:romaxasvetlov@gmail.com)
-* **Telegram:** [@Superromaxa](https://t.me/Superromaxa)
+[Email](mailto:romaxasvetlov@gmail.com) · [Telegram](https://t.me/Superromaxa)
